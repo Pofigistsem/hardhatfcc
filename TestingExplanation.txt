@@ -1,0 +1,10 @@
+Unit tests - software testing method by which individual units of source code are tested
+    - Test minimal portions of our code (ex: contract) in order to make sure that they work correctly
+
+Staging tests - running our code. Not always neccessary but can be helpful.
+
+Unit tests are done locally
+    - local hardhat network
+    - forked hardaht 
+
+Staging tests are done on a testnet (LAST STOP!!!)
